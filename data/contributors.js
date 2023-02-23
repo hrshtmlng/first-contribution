@@ -55,6 +55,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Harshit Malangh",
+    branch: "Chemical Engineering",
+    college: "Guru Ghasidas University",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/harshit-malang-3968011aa/",
+    github: "https://github.com/hrshtmlng",
+    gender: "Male"
+  },
+  {
     name: "Sreeja Kar Choudhury",
     branch: "Computer Science & Engineering",
     college: "Future Institute of Technology",
